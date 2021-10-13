@@ -1,0 +1,2 @@
+# AgenteColetorLixo
+Garbage Collector Agent
